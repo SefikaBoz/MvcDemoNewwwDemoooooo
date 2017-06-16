@@ -1,0 +1,8 @@
+C:\Users\Sefika\Desktop\MvcDemo\bin\Debug\netcoreapp1.1\MvcDemo.deps.json
+C:\Users\Sefika\Desktop\MvcDemo\bin\Debug\netcoreapp1.1\MvcDemo.runtimeconfig.json
+C:\Users\Sefika\Desktop\MvcDemo\bin\Debug\netcoreapp1.1\MvcDemo.runtimeconfig.dev.json
+C:\Users\Sefika\Desktop\MvcDemo\bin\Debug\netcoreapp1.1\MvcDemo.dll
+C:\Users\Sefika\Desktop\MvcDemo\bin\Debug\netcoreapp1.1\MvcDemo.pdb
+C:\Users\Sefika\Desktop\MvcDemo\obj\Debug\netcoreapp1.1\MvcDemo.AssemblyInfo.cs
+C:\Users\Sefika\Desktop\MvcDemo\obj\Debug\netcoreapp1.1\MvcDemo.dll
+C:\Users\Sefika\Desktop\MvcDemo\obj\Debug\netcoreapp1.1\MvcDemo.pdb
